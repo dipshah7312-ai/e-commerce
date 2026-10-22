@@ -170,7 +170,7 @@ HIGHLIGHTS
  z-index: 1;
  background-size: cover;
  background-repeat: no-repeat;
- transform: translateY(-100%);
+ transform: translateY(-100%); 
 }
 
 #highlights:after {
@@ -184,10 +184,8 @@ HIGHLIGHTS
  z-index: 1;
  background-size: cover;
  background-repeat: no-repeat;
- transform: translateY(100%); rotate: (180deg);
+ transform: translateY(125%) rotate(180deg); 
 }
-
-
 
 .highlight__wrapper {
   display: flex;
